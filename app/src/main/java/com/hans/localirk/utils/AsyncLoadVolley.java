@@ -25,6 +25,7 @@ import java.util.Map;
 
 
 public class AsyncLoadVolley {
+
     private Context context = LikrApp.getContext();
 
     private static final String TAG = "AsyncLoadVolley Response";
