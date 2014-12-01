@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Localikr</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="connectionErr">Connection error</string>
+    <string name="servRespErr">Server response error</string>
+    <string name="ok">OK</string>
+
+    <string name="fieldNotBeEmpty">Field cannot be blank</string>
+    <string name="fieldPassInc">Passwords do not match</string>
+
+    <string-array name="ageGroups">
+        <item>Age Group</item>
+        <item>Under 18</item>
+        <item>18–21</item>
+        <item>22–30</item>
+        <item>31–35</item>
+        <item>35+</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="responseErrorTitle">Server error</string>
+
+    <string name="clientTooOld">You are using an outdated version of Localikr, please update to the latest version!</string>
+
+    <string name="chatActionUnauthorized">CHAT_ACTION_UNAUTHORIZED</string>
+</resources>
